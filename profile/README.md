@@ -1,4 +1,6 @@
-Hi there 👋! At Tinymovr we design and manufacture compact and affordable motion control products and accessories for robotics.
+## Welcome to Tinymovr!
+
+We design and manufacture compact and affordable motion control products and accessories for robotics.
 
 Our main products are the [Tinymovr Motor Controller](https://tinymovr.com/products/tinymovr-r5), the [Tinymovr Servokit](https://tinymovr.com/products/tinymovr-servo-kit-r5), and the [CANine USBC↔︎CAN Adapter](https://tinymovr.com/products/can-bus-adapter).
 
